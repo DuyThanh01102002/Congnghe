@@ -9,7 +9,7 @@
             <!-- start filter section -->
             <div class="col-md-2" style="margin-top:1em">
                 <h4 class="filter-header">
-                    By Category
+                    Bởi danh mục
                 </h4>
                 <ul class="filter-ul">
                     @foreach ($categories as $category)
@@ -17,7 +17,7 @@
                     @endforeach
                 </ul>
                 <h4 class="filter-header">
-                    By Tag
+                    Bởi nhóm
                 </h4>
                 <ul class="filter-ul">
                     @foreach ($tags as $tag)
