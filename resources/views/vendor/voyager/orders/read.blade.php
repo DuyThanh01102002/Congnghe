@@ -70,11 +70,11 @@
                                     <table class="table table-borderless" style="width:50%">
                                         <thead>
                                             <tr>
-                                                <th scope="col">Product</th>
-                                                <th scope="col">Image</th>
-                                                <th scope="col">Price</th>
-                                                <th scope="col">Details</th>
-                                                <th scope="col">Quantity</th>
+                                                <th scope="col">Sản phẩm</th>
+                                                <th scope="col">Hình ảnh</th>
+                                                <th scope="col">Giá</th>
+                                                <th scope="col">Chi tiết</th>
+                                                <th scope="col">Số lượng</th>
                                             </tr>
                                         </thead>
                                         <tbody>

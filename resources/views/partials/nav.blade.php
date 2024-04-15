@@ -28,7 +28,7 @@
             @else
             @if (auth()->user()->can('browse_admin'))
             <li class="nav-item">
-                <a class="nav-link" href="{{ url('/admin') }}">Admin Panel</a>
+                <a class="nav-link" href="{{ url('/admin') }}">Quản lý admin</a>
             </li>
             @endif
             <li class="nav-item dropdown">

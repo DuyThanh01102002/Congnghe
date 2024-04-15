@@ -18,14 +18,14 @@
         <canvas id="products_status3"></canvas>
     </div>
     <h3 class="mt-12 text-center text-2xl">
-        Country Visits:
+        Số người ghé thăm:
     </h3>
     <div class="table-responsive">
         <table id="dataTable" class="table table-hover">
             <thead>
                 <tr>
-                    <th>Country</th>
-                    <th>Visits</th>
+                    <th>Đất nước</th>
+                    <th>Đã vào</th>
                 </tr>
             </thead>
             <tbody>
